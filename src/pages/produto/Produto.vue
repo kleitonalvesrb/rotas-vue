@@ -1,20 +1,19 @@
 <template>
-  <div id="app">
-  <h1>Aprendendo rotas</h1>
-  <router-view/>
+  <div id="produto">
+  <h1>Tela Produto</h1>
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
+  name: 'Produto',
  
 }
 </script>
 
 <style>
-#app {
+#produto {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

@@ -1,14 +1,13 @@
 <template>
-  <div id="app">
-  <h1>Aprendendo rotas</h1>
-  <router-view/>
+  <div id="home">
+      <h1>Tela Home</h1>
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
+  name: 'Home',
  
 }
 </script>
